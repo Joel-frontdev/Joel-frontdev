@@ -18,7 +18,7 @@ I'm building projects daily and documenting my progress. Check out my repositori
 - Land my first developer role
 
 ### 📫 Connect With Me
-- LinkedIn: [Add your LinkedIn URL once created]
+- LinkedIn:https://www.linkedin.com/in/joelsolomon-dev/
 - Email: joels755@gmail.com
 
 ---
